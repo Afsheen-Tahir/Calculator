@@ -2,7 +2,7 @@
     background-color: #352323;
     padding:0px;
     margin:0px;
-    color:white;
+    color: white;
 }
 .outer{
     height:100vh;
@@ -19,9 +19,9 @@
 #calculate{
 width:13rem;
 height:30px;
-
+padding-left: 10px;
 color:rgb(226, 204, 204);
-border:1px solid rgb(226, 213, 213)
+border:1px solid rgb(141, 107, 107)
 }
 button{
     height:50px;
@@ -39,4 +39,9 @@ button{
 #zero{
   border-radius: 45%;
     width:80px;
+}
+#buttons{
+   border:2px solid rgb(141, 107, 107);
+   margin-top: 20px;
+   padding: 6px;
 }
